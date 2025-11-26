@@ -1,0 +1,93 @@
+
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Auntie’s fighting for her life and losing 😭</title>
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #ffffff;
+            padding: 20px;
+        }
+        .video-title {
+            font-size: 1em;
+            font-weight: bold;
+            margin-bottom: 18px;
+            letter-spacing: 1px;
+            color: black;
+        }
+        .video-wrapper {
+            position: relative;
+            width: 100%;
+            max-width: 720px;
+            margin: 0 auto;
+        }
+        video {
+            width: 100%;
+            max-width: 100%;
+            border-radius: 10px;
+            display: block;
+        }
+        .ad-banner-inside {
+            position: absolute;
+            top: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 320px;
+            height: 50px;
+            background: rgba(255,255,255,0.92);
+            border-radius: 10px 10px 0 0;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.10);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 2;
+            overflow: hidden;
+        }
+        @media (max-width: 400px) {
+            .ad-banner-inside {
+                width: 95vw;
+                height: 40px;
+                font-size: 0.85em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="video-title">Auntie’s fighting for her life and losing 😭<span aria-label="smile" role="img"></span></div>
+    <center><script type="text/javascript">
+    atOptions = {
+        'key' : '1f522d82c39ed94739a379ffba95606f',
+        'format' : 'iframe',
+        'height' : 50,
+        'width' : 320,
+        'params' : {}
+    };
+</script>
+<script type="text/javascript" src="//alightmiraculous.com/1f522d82c39ed94739a379ffba95606f/invoke.js"></script>
+    <br>
+    <div class="video-wrapper">
+        <video autoplay loop playsinline controls poster="https://cdn.aceimg.com/def967a26.png">
+            <source src="https://cdn.videy.co/OoGUD0zR1.mp4" type="video/mp4">
+        </video><center><script type="text/javascript">
+    atOptions = {
+        'key' : '1f522d82c39ed94739a379ffba95606f',
+        'format' : 'iframe',
+        'height' : 50,
+        'width' : 320,
+        'params' : {}
+    };
+</script>
+<script type="text/javascript" src="//alightmiraculous.com/1f522d82c39ed94739a379ffba95606f/invoke.js"></script>
+        <div style="text-align: center; margin: 30px 0;">
+  <a href="https://alightmiraculous.com/qt9xw7axu?key=21a5a572d4b9ebacebe26851ade16f64" style="display: inline-flex; align-items: center; gap: 10px; background-color: #000000; color: white; font-size: 20px; font-weight: bold; padding: 16px 28px; border-radius: 8px; text-decoration: none; box-shadow: 0 0 15px rgba(255 255 255 / 80%); animation: blink 1.5s infinite;">▶︎ Full HD Video
+  </a>
+    </div>
+ <a href="https://alightmiraculous.com/qt9xw7axu?key=21a5a572d4b9ebacebe26851ade16f64" style="display: inline-flex; align-items: center; gap: 10px; background-color: #000000; color: white; font-size: 20px; font-weight: bold; padding: 16px 28px; border-radius: 8px; text-decoration: none; box-shadow: 0 0 15px rgba(255 255 255 / 80%); animation: blink 1.5s infinite;">▶︎ More Videos
+  </a>
+</body>
+</html>
